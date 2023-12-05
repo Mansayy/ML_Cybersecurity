@@ -9,4 +9,4 @@ Use clean validation data (valid.h5) to design the pruning defense. And use test
 
 Once the data is uploaded the file can be executed directly. 
 
-Detailed description regarding the same is in report.pdf
+Detailed description regarding the same is in mj2966_hw4_backdoor.pdf
